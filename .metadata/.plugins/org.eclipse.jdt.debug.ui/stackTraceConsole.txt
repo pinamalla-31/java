@@ -1,0 +1,2 @@
+	System.out.println("enter the age:");
+			int age=scan.nextInt();

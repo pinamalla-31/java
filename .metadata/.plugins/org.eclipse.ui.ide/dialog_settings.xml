@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\DeepikaPinamalla\Downloads\registration-login-spring-boot-security-thymeleaf-hibernate-master (1)"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\registration-login-spring-boot-security-thymeleaf-hibernate-master (1)\registration-login-spring-boot-security-thymeleaf-hibernate-master"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\RegistrationLogin (1)\RegistrationLogin"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\RegistrationLogin"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\RegistrationLogin\RegistrationLogin"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\SpringEmployeeProg\SpringEmployeeProg"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\employeeOpreation1 (1)\employeeOpreation1"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\EmployeeSpringboot (1)\EmployeeSpringboot"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\springcode2\springcode2"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\springcode3"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\springcode2"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\springcode1"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\springcode"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\springcode\springcode"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\shopping_cart_mybatis-master"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\Online-Cab-Booking-System-master (1)"/>
+			<item value="C:\Users\DeepikaPinamalla\Downloads\Product-Service-Management-System-master"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

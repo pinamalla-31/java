@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.usercollection&apos; to &apos;org.user.model&apos;&#x0D;&#x0A;- Original project: &apos;callCollectionDB&apos;&#x0D;&#x0A;- Original element: &apos;callCollectionDB/src/org.usercollection&apos;&#x0D;&#x0A;- Renamed element: &apos;callCollectionDB/src/org.user.model&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.usercollection&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.usercollection" name="org.user.model" qualified="false" references="true" stamp="1663938058078" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.java.programs.ArratTest&apos; to &apos;ArrayTest&apos;&#x0D;&#x0A;- Original project: &apos;programs&apos;&#x0D;&#x0A;- Original element: &apos;org.java.programs.ArratTest&apos;&#x0D;&#x0A;- Renamed element: &apos;org.java.programs.ArrayTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ArratTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.java.programs{ArratTest.java[ArratTest" matchStrategy="1" name="ArrayTest" qualified="false" references="true" similarDeclarations="false" stamp="1662731999188" textual="false" version="1.0"/>
+</session>
